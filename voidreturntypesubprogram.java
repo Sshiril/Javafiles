@@ -1,8 +1,8 @@
-//Program with return type as void for 
+//Program with return type as void for adding two numbers.
 public class subprograms {
 
     public static void main(String[] args) { //main function
-        int a=5, b=6,answer; //initializing inside main function
+        int a=5, b=6; //initializing inside main function
      
         myMethod(a,b); // calling the function
     
