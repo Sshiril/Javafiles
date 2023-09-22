@@ -20,8 +20,8 @@ public class stringJava {
 
    //String[] myArray;       //declaration of string array without size
         //String[] strArray = new String[5];  //declaration with size
-        //String[] numarray = {“one”, “two”, “three”};
-//String[] strArray = new String[] {“one”, “two”, “three”, “four”};
+        //String[] numarray = {â€œoneâ€, â€œtwoâ€, â€œthreeâ€};
+//String[] strArray = new String[] {â€œoneâ€, â€œtwoâ€, â€œthreeâ€, â€œfourâ€};
 
 String[] strArray = new String[3];
 strArray[0] = "one";
